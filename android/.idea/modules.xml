@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/quizApp.iml" filepath="$PROJECT_DIR$/.idea/modules/quizApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/quizApp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/quizApp.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1605166941/quizApp.react-native-community_art.iml" filepath="$PROJECT_DIR$/.idea/modules/-1605166941/quizApp.react-native-community_art.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1709822745/quizApp.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/-1709822745/quizApp.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/607600080/quizApp.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/607600080/quizApp.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1083309644/quizApp.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/1083309644/quizApp.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/439493177/quizApp.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/439493177/quizApp.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/388973969/quizApp.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/388973969/quizApp.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/75770886/quizApp.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/75770886/quizApp.react-native-vector-icons.iml" />
+    </modules>
+  </component>
+</project>
